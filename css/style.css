@@ -1,0 +1,45 @@
+body{ background:#000; color:#898989;}
+.main{ width:750px; padding-top:100px;
+position:relative;
+margin:0 auto;}
+.text{ font-family: 'Mr De Haviland', cursive;
+font-size:72px;
+color:#d6d6d6;
+}
+.logo{position:relative;
+margin:0 auto;
+text-align:center;}
+.text1{font-family: 'Quicksand', sans-serif;
+font-size:16px;
+text-transform:uppercase;
+}
+.photo{
+position:relative;
+margin:0 auto;
+height:370px;
+text-align:center;}
+.nav{position:relative;
+margin:0 auto;
+text-align:center;}
+ul.menu {margin:0 1px 0 0;   display:inline-block;}
+ul.menu li {float:left; line-height:17px; margin:0 0 0 0; }
+.footer{
+	position:relative;
+	padding-top:50px;}
+.v{
+	position:relative;
+	float:left; color:#7d7d7d; text-transform:uppercase; font-size:14px;
+	}
+.vlinks{
+	position:relative; color:7d7d7d; text-transform:uppercase; font-size:14px;
+	float:right;}
+.vlinks a{color:#7d7d7d; text-decoration:none;}
+.foot{
+	position:relative;
+	padding-top:50px;margin:0 auto;
+text-align:center;
+	}
+
+
+
+

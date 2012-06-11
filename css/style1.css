@@ -1,0 +1,48 @@
+body{ background:#000; color:#898989;}
+.main{ width:950px;position:relative;margin:0 auto;}
+.text{ font-family: 'Mr De Haviland', cursive;font-size:72px;color:#d6d6d6;}
+.logo{position:relative;margin:0 auto;float:right}
+.text1{font-family: 'Quicksand', sans-serif;font-size:16px;text-transform:uppercase;}
+.nav{position:relative;margin:0 auto;float:left;text-align:center;}
+ul.menu {margin:0 1px 0 0;   display:inline-block;}
+ul.menu li {float:left; line-height:17px; margin:0 0 0 0; }
+.footer{	position:relative;	padding-top:35px;}
+.v{	position:relative;float:left; color:#7d7d7d; text-transform:uppercase; font-size:14px;	}
+.vlinks{position:relative; color:7d7d7d; text-transform:uppercase; font-size:14px;	float:right;}
+.vlinks a{color:#7d7d7d; text-decoration:none;}
+.foot{	position:relative;	padding-top:40px;margin:0 auto;text-align:center;	}
+.center{ padding-top:50px;}
+	.photo{		position:relative;		float:left;		width:400px;}
+	.welcome{		position:relative;		float:right; padding-left:50px;		width:435px}
+.text2{ color:#e8e8e8;  font-family: 'Mr De Haviland', cursive; font-size:72px;}
+.text3{ font-family:Arial, Helvetica, sans-serif; font-size:14px; color:#7e7e7e; line-height:1.5;}
+.text3 span{ color:#b7b7b7;}
+.text4{ float:right; color:#e8e8e8;font-family: 'Mr De Haviland', cursive; }
+.content{ position:relative;
+ padding-top:50px;}
+.fashion{	position:relative;	float:left;	width:250px}
+.new{position:relative;	float:left;	width:615px; padding-left:70px}
+.girl{	position:relative;	float:left;	width:130px; padding-top:20px;}
+.darina{	position:relative;	float:left;	width:130px; padding-left:30px; padding-top:20px;}
+.man{	position:relative;	float:left;	width:130px; padding-left:30px; padding-top:20px;}
+.james{	position:relative;	float:left;	width:130px; padding-left:30px;padding-top:20px; }
+@font-face {
+    font-family: 'PTSansNarrowBold';
+    src: url('../font/pt-sans-narrow-bold-webfont.eot');
+    src: url('../font/pt-sans-narrow-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../font/pt-sans-narrow-bold-webfont.woff') format('woff'),
+         url('../font/pt-sans-narrow-bold-webfont.ttf') format('truetype'),
+         url('../font/pt-sans-narrow-bold-webfont.svg#PTSansNarrowBold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+.text5{ font-size:20px; color:#FFF; font-family: 'PTSansNarrowBold'; text-transform:uppercase;}
+.text6{font-family:Arial, Helvetica, sans-serif; font-size:13px; text-transform:uppercase; color:#ededed;}
+.text7{ font-family:Arial, Helvetica, sans-serif; font-size:14px; color:#666666; line-height:1.5}
+.text8{font-family:Arial, Helvetica, sans-serif; font-size:14px;color:#ffffff;}
+.text9{ font-family:Arial, Helvetica, sans-serif; font-size:14px;color:#666666; line-height:1.5}
+.text10{font-family:Arial, Helvetica, sans-serif; font-size:14px;}
+.text10 a{ color:#c8c8c8; }
+
+
+
